@@ -10,4 +10,4 @@ Pour ma deuxième exploration, je me suis inspiré du fait que j'oublis souvent 
 
 Pour ma troisième exploration, cette fois-ci sur Arduino, j'ai choisi de faire quelque chose de simple : une guirlande de Noël. Je me suis inspirée d'une chanson de Noël qui passait sur le speaker du salon. J'ai utilisé les boutons A et B pour faire deux possibilités d'éclairages différents. Je pense que j'aurai pu pousser mon codage pour fusionner les deux possibilités de d'éclairage de guirlande de Noël. (Puisque je suis encore nouvelle sur Arduino, j'ai oublié d'enregistrer mon codage donc je n'ai malheureusement pas mon doc Arduino)
 
-Pour le dernier cours sur le thème du Etextiles sur Arduino, je réussi à me rendre jusqu'à la deuxième itération textile pour faire réagir mon board. Les contacts se sont bien transmis pour les deux. 
+Pour le dernier cours sur le thème du Etextiles sur Arduino, je réussi à me rendre jusqu'à la deuxième intération textile pour faire réagir mon board. Les contacts se sont bien transmis pour les deux. 
